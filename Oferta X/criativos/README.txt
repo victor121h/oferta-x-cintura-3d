@@ -1,0 +1,3 @@
+Criativos da biblioteca de anúncios
+
+A URL da biblioteca de anúncios não foi incluída no pedido. Quando ela estiver disponível, salvar aqui os vídeos sem duplicação e nomeá-los como Video 1, Video 2, ...
