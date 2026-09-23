@@ -9,7 +9,8 @@
 - Checkout original: https://pay.hotmart.com/C66545185I?off=fhi4k97c&bid=1773783201822
 - GitHub: https://github.com/victor121h/oferta-x-cintura-3d
 - Vercel: https://oferta-x-cintura-3d.vercel.app
-- Checkout atual: igual ao original até o novo link do Perfect Pay ser fornecido.
+- Checkout atual: Hotmart original até o novo link Perfect Pay ser fornecido.
+- Perfect Pay configurado: US$29, garantia 7 dias, cintura@gmail.com, WhatsApp 11 999283467.
 
 ## Atualizações
 

@@ -1,0 +1,11 @@
+Biblioteca de anúncios consultada em 23/09/2026
+URL: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&q=DRACLAUDIABENEVIDES.COM&search_type=keyword_unordered&sort_data[direction]=desc&sort_data[mode]=total_impressions
+
+A página exibiu aproximadamente 110 resultados e o painel de coleta identificou 22 anúncios visíveis. Os quatro primeiros criativos de vídeo visíveis tinham estas durações e datas:
+- ID 1538909128283404 — 00:37 — iniciado em 12/09/2026 — 1 creative
+- ID 2501200447051226 — 00:43 — iniciado em 10/09/2026 — 3 anúncios usam o criativo/texto
+- ID 1469991244962906 — 01:10 — iniciado em 29/08/2026 — 2 anúncios usam o criativo/texto
+- ID 1033582149453332 — 01:05 — iniciado em 25/08/2026 — 2 anúncios usam o criativo/texto
+- ID 1054008323941123 — vídeo sem duração exibida no recorte — iniciado em 23/08/2026 — 1 creative
+
+Os arquivos de vídeo exigem download autenticado pelo player da Meta. A pasta mantém este relatório para orientar a coleta sem duplicações.

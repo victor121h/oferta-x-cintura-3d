@@ -1,0 +1,18 @@
+Produto Perfect Pay — configuração aprovada
+
+Nome: Protocolo Murcha-Barriga
+Descrição: Programa digital de 21 dias para ajudar mulheres a reduzir a sensação de barriga estufada, com protocolo alimentar, listas, receitas, planilha e bônus.
+Garantia: 7 dias
+Formato: Produto Digital
+Categoria: Geral
+Público-alvo: Masculino (conforme instrução recebida)
+Moeda: Dólar americano (USD)
+Preço: US$ 29
+E-mail de suporte: cintura@gmail.com
+WhatsApp: 11 999283467
+Sales page: https://oferta-x-cintura-3d.vercel.app/cintura-pg-v3
+Nome do plano: Protocolo Murcha-Barriga — Acesso completo
+Imagem: usar uma das imagens locais; substituir depois, se necessário.
+Entregável: não selecionar na criação inicial.
+
+Status: configuração registrada; link de checkout Perfect Pay ainda depende da criação no painel autenticado.

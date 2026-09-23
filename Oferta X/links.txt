@@ -6,7 +6,7 @@ Páginas
 
 Checkout
 - Original Hotmart: https://pay.hotmart.com/C66545185I?off=fhi4k97c&bid=1773783201822
-- Perfect Pay: ainda não criado nesta etapa
+- Perfect Pay: produto configurado com US$29 e garantia de 7 dias; link final ainda depende da criação no painel
 
 Biblioteca de anúncios
-- Link não informado no pedido; preencher quando a URL da biblioteca for fornecida.
+- Biblioteca: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&q=DRACLAUDIABENEVIDES.COM&search_type=keyword_unordered&sort_data[direction]=desc&sort_data[mode]=total_impressions

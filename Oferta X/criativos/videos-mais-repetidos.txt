@@ -1,3 +1,7 @@
-Análise de repetição
+Top 3 criativos por repetição na captura de 23/09/2026
 
-Ainda não há URL da biblioteca de anúncios disponível para medir vídeos repetidos e dias ativos. Após fornecer o link, registrar aqui os 3 vídeos com maior repetição e os respectivos dias ativos.
+1. ID 2501200447051226 — aparece em 3 anúncios — início: 10/09/2026 — duração: 00:43.
+2. ID 1469991244962906 — aparece em 2 anúncios — início: 29/08/2026 — duração: 01:10.
+3. ID 1033582149453332 — aparece em 2 anúncios — início: 25/08/2026 — duração: 01:05.
+
+Critério: quantidade de anúncios que reutilizam o criativo/texto; em caso de empate, priorizei o criativo mais antigo.
