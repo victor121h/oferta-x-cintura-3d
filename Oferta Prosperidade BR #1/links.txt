@@ -1,0 +1,17 @@
+Oferta Prosperidade BR #1 — links
+
+Páginas
+- Oferta principal: https://vsl.rabinorony.com.br/
+- Upsell: https://vsl.rabinorony.com.br/upsell
+- Checkout original (Contraste): https://pay.contraste.ly/pay/bc6170eb-2749-4985-ad17-067d050a4139
+
+Clone local
+- Raiz: /
+- Upsell: /upsell/
+
+Checkout Perfect Pay
+- Produto principal: ainda não criado no painel
+- Upsell 1: ainda não criado no painel
+- Upsell 2: ainda não criado no painel
+- Upsell 3: ainda não criado no painel
+- Upsell 4: ainda não criado no painel

@@ -1,0 +1,2 @@
+/* The captured offer uses page-local styles in index.html. This file keeps the static shell portable. */
+:root { color-scheme: light; }

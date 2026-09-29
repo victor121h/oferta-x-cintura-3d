@@ -1,0 +1,7 @@
+# Local media larger than GitHub's regular file limit; retained in Oferta Prosperidade BR #1/videos.
+/Oferta Prosperidade BR #1/videos/*.ts
+# Preserve unrelated imported working files outside this commit.
+/assets/inlead/
+/css/
+/fonts/
+/js/

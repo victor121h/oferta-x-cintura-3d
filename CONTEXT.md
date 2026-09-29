@@ -1,20 +1,14 @@
-# Contexto da Oferta X
+# Contexto — Oferta Prosperidade BR #1
 
-- Origem: https://draclaudiabenevides.com/cintura-pg-v3
-- Rota local: /cintura-pg-v3
-- Estrutura: HTML estático preservando o layout Hotmart Pages original.
-- Fontes: Playfair Display e Plus Jakarta Sans via Google Fonts.
-- Assets locais: `assets/`.
-- Player: Vturb smartplayer `ab-6a985b49bb88584246143bc5`.
-- Checkout original: https://pay.hotmart.com/C66545185I?off=fhi4k97c&bid=1773783201822
-- GitHub: https://github.com/victor121h/oferta-x-cintura-3d
-- Vercel: https://oferta-x-cintura-3d.vercel.app
-- Checkout atual: Hotmart original até o novo link Perfect Pay ser fornecido.
-- Perfect Pay configurado: US$29, garantia 7 dias, cintura@gmail.com, WhatsApp 11 999283467.
+Projeto atual: clone estático das páginas `https://vsl.rabinorony.com.br/` e `/upsell`, com os players VTurb externos preservados.
 
-## Atualizações
+Arquivos principais:
+- `index.html` + `app.js`: página principal, CTA, presenter e popups.
+- `upsell/index.html`: página de processamento/upsell.
+- `assets/rabino-rony.png`: imagem do apresentador.
+- `Oferta Prosperidade BR #1/`: posters, vídeo principal 720p, links, configuração Perfect Pay e relatórios de criativos.
 
-- 2026-09-23: importação inicial da página e das cinco imagens.
-- 2026-09-23: oferta liberada por padrão no clone local (a versão Hotmart usa uma seção `#reveal` escondida).
+Checkout de referência:
+`https://pay.contraste.ly/pay/bc6170eb-2749-4985-ad17-067d050a4139`
 
-Ao alterar a oferta no Replit, atualize este arquivo com a data, a seção modificada e os novos links de checkout.
+Os produtos da Perfect Pay e os novos links de checkout dependem do painel autenticado e ficam registrados como pendentes até serem criados.

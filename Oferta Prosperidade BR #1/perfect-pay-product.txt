@@ -1,0 +1,17 @@
+Configuração dos 5 produtos na Perfect Pay
+
+Nome: Código Judaico da Prosperidade — Produto principal e quatro ofertas complementares
+Descrição: Conteúdo digital baseado nos cinco princípios judaicos apresentados pelo Rabino Rony.
+Garantia: 7 dias
+Formato do produto: Produto Digital
+Categoria: Geral
+Público alvo: Masculino
+Moeda: Brasil (BRL)
+Email suporte: suporte@gmail.com
+WhatsApp: 11 999283763
+Sales page: https://vsl.rabinorony.com.br/
+Nome do plano: usar o nome correspondente de cada item
+Imagem: qualquer imagem temporária; substituir depois
+Entregável: não selecionar na criação inicial
+
+Os cinco produtos devem ser criados no painel Perfect Pay e seus links de checkout devem substituir o checkout original em index.html, app.js e upsell/index.html. Os links finais ainda não foram obtidos.
