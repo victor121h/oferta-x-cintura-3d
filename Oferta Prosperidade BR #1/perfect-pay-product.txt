@@ -1,7 +1,6 @@
 Configuração dos 5 produtos na Perfect Pay
 
-Nome: Código Judaico da Prosperidade — Produto principal e quatro ofertas complementares
-Descrição: Conteúdo digital baseado nos cinco princípios judaicos apresentados pelo Rabino Rony.
+Dados comuns para todos:
 Garantia: 7 dias
 Formato do produto: Produto Digital
 Categoria: Geral
@@ -10,8 +9,19 @@ Moeda: Brasil (BRL)
 Email suporte: suporte@gmail.com
 WhatsApp: 11 999283763
 Sales page: https://vsl.rabinorony.com.br/
-Nome do plano: usar o nome correspondente de cada item
 Imagem: qualquer imagem temporária; substituir depois
 Entregável: não selecionar na criação inicial
 
-Os cinco produtos devem ser criados no painel Perfect Pay e seus links de checkout devem substituir o checkout original em index.html, app.js e upsell/index.html. Os links finais ainda não foram obtidos.
+Produtos identificados no checkout original:
+1. Nome: Código Judaico da Prosperidade
+   Plano/preço de referência: R$ 297,00 (até 12 x R$ 29,82)
+2. Nome: Acesso Vitalício Ao Código Judaico da Prosperidade
+   Plano/preço de referência: R$ 99,00 (até 12 x R$ 9,94)
+3. Nome: Mapa da Travessia
+   Plano/preço de referência: R$ 55,00 (até 6 x R$ 9,17)
+4. Nome: Resumo Ilustrado do Código Judaico da Prosperidade
+   Plano/preço de referência: R$ 99,00 (até 12 x R$ 9,94)
+5. Nome: Os Segredos Ocultos do Livro de Gênesis
+   Plano/preço de referência: R$ 99,00 (até 12 x R$ 9,94)
+
+Os cinco produtos e seus links individuais de checkout ainda dependem do painel Perfect Pay autenticado. Depois da criação, substituir o checkout Contraste em index.html, app.js e upsell/index.html e registrar os links em links.txt.
