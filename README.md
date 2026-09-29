@@ -5,7 +5,7 @@ Clone estático das páginas da oferta Código Judaico da Prosperidade, com a p�
 - `https://vsl.rabinorony.com.br/`
 - `https://vsl.rabinorony.com.br/upsell`
 
-O projeto mantém os players VTurb externos para preservar o comportamento original. Os posters, a imagem do apresentador e o vídeo principal em 720p ficam em `Oferta Prosperidade BR #1/`.
+Publicado em `https://oferta-x-cintura-3d.vercel.app/`. O projeto mantém os players VTurb externos para preservar o comportamento original. Os posters, a imagem do apresentador e o vídeo principal em 720p ficam em `Oferta Prosperidade BR #1/`.
 
 ## Desenvolvimento
 

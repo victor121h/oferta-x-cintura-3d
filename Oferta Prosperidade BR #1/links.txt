@@ -8,6 +8,8 @@ Páginas
 Clone local
 - Raiz: /
 - Upsell: /upsell/
+- Vercel: https://oferta-x-cintura-3d.vercel.app/
+- GitHub: https://github.com/victor121h/oferta-x-cintura-3d
 
 Checkout Perfect Pay
 - Produto principal: ainda não criado no painel
