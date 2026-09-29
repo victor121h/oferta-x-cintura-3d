@@ -212,6 +212,7 @@
             visitorId: localStorage.getItem('mp_visitor') || 'v_' + Math.random().toString(36).substr(2, 9)
         };
 
+
         sessionStorage.setItem('mp_session', state.sessionId);
         localStorage.setItem('mp_visitor', state.visitorId);
 
@@ -243,6 +244,7 @@
         const revealCTA = () => {
             if (state.ctaRevealed) return;
             state.ctaRevealed = true;
+            document.getElementById('cta-upsell').href = CONFIG.UPSELL_URL;
             document.getElementById('cta-section').classList.add('visible');
             track('upsell_cta_revealed');
             // Facebook Pixel - ViewContent no pitch
