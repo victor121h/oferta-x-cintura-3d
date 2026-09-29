@@ -25,3 +25,7 @@ Produtos identificados no checkout original:
    Plano/preço de referência: R$ 99,00 (até 12 x R$ 9,94)
 
 Os cinco produtos e seus links individuais de checkout ainda dependem do painel Perfect Pay autenticado. Depois da criação, substituir o checkout Contraste em index.html, app.js e upsell/index.html e registrar os links em links.txt.
+
+Delay observado no clone:
+- Página principal: CTA aparece no pitch em 16:53 (1013 s); fallback técnico em 01:00 se o player não emitir progresso.
+- Upsell: CTA aparece no pitch em 05:00 (300 s); fallback técnico em 01:00.
